@@ -18,7 +18,9 @@ bash ./install_ros2_foxy.sh
 <image>
 
 ## 3.2 Install Dependent ROS2 Packages
+  
 **1. Install Gazebo11**
+  
 ```
 sudo apt-get install ros-foxy-gazebo-*
 ```
