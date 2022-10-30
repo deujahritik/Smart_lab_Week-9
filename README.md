@@ -34,7 +34,9 @@ sudo apt install ros-foxy-cartographer-ros
 ```
 
 <image>
+  
 **3. Install Navigation2**
+  
 ```
 sudo apt install ros-foxy-navigation2
 sudo apt install ros-foxy-nav2-bringup
